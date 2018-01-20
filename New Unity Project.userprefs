@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{BFD958C4-5209-89E8-D1A0-F25854A4DC74}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/blackObstacle.cs">
+    <Files>
+      <File FileName="Assets/Scripts/followPlayer.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/playerMovement.cs" Line="34" Column="10" />
+      <File FileName="Assets/Scripts/projectileCollision.cs" Line="17" Column="10" />
+      <File FileName="Assets/Scripts/Player.cs" Line="72" Column="5" />
+      <File FileName="Assets/Scripts/projectile.cs" Line="7" Column="5" />
+      <File FileName="Assets/Scripts/armorPowerUp.cs" Line="31" Column="29" />
+      <File FileName="Assets/Scripts/blackObstacle.cs" Line="11" Column="13" />
+      <File FileName="Assets/Scripts/playerCollision.cs" Line="17" Column="21" NotebookId="1" />
+      <File FileName="Assets/Scripts/Obstacle.cs" Line="3" Column="19" NotebookId="1" />
+      <File FileName="Assets/Scripts/ProjectileShooter.cs" Line="32" Column="6" NotebookId="1" />
+      <File FileName="Assets/Scripts/powerUp.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.New_220Unity_220Project PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
